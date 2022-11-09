@@ -4,7 +4,7 @@ export interface ICurrentWeatherData {
     icon: string
   }],
   main: {
-    temp: Number
+    temp: number
   },
   dt: number,
   sys: {
